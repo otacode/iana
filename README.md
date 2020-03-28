@@ -1,10 +1,21 @@
 # List of Internet Assigned Numbers Authority (IANA) top level domains
 
-## This list is a combination of two sources:
-* Top level domains from text file http://data.iana.org/TLD/tlds-alpha-by-domain.txt
-* Domain details scraped from https://www.iana.org/domains/root/db
+## Source
+This list is a combination of two sources:
+- Top level domains from text file [http://data.iana.org/TLD/tlds-alpha-by-domain.txt](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
+- Domain details scraped from [https://www.iana.org/domains/root/db](https://www.iana.org/domains/root/db)
 
-Available in json format via Github.
-Updated weekly.
+## Format
+Available in UTF-8 JSON format. For additional format please contact me via [otacode.com](https://otacode.com) page.
 
-More information from otacode.com
+## Versioning
+Please see the generated key in JSON file.
+
+## Schedule
+Updated weekly automatically.
+
+## More information
+More information from [otacode.com](https://otacode.com)
+
+## License
+This repository content is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
