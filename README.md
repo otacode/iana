@@ -6,10 +6,10 @@ This list is a combination of two sources:
 - Domain details scraped from [https://www.iana.org/domains/root/db](https://www.iana.org/domains/root/db)
 
 ## Format
-Available in UTF-8 JSON format. For additional format please contact me via [otacode.com](https://otacode.com) page.
+Available in UTF-8 JSON format. For additional formats please contact me via [otacode.com](https://otacode.com) page.
 
 ## Versioning
-Please see the generated key in JSON file.
+Please see the *generated* key in the JSON file.
 
 ## Schedule
 Updated weekly automatically.
