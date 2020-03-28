@@ -1,7 +1,7 @@
 # List of Internet Assigned Numbers Authority (IANA) top level domains
 
 ## Source
-This list is a combination of two sources:
+The file [iana_top_level_domains.json](iana_top_level_domains.json) is a combination of two sources:
 - Top level domains from text file [http://data.iana.org/TLD/tlds-alpha-by-domain.txt](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 - Domain details scraped from [https://www.iana.org/domains/root/db](https://www.iana.org/domains/root/db)
 
