@@ -6,4 +6,5 @@
 
 Available in json format via Github.
 Updated weekly.
-.
+
+More information from otacode.com
